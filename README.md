@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
+![Screen_Recording_20230223-212050 1](https://user-images.githubusercontent.com/113037698/220960902-7dbd3246-6d73-451e-84e5-3bbda7768e9e.gif)
 
 This project is a starting point for a Flutter application.
 
